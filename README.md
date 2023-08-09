@@ -1,6 +1,9 @@
+
 # Certified Kubernetes Administrator (CKA) Course
 
-These are notes from the [Certified Kubernetes Administrator Course](https://kodekloud.com/courses/certified-kubernetes-administrator-cka/) hosted on KodeKloud.
+My personal notes from following along with this course can be found in the [my-notes](my-notes) directory.
+
+The rest of this README is from the original course repository.
 
 # Sections
 
